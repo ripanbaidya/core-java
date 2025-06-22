@@ -6,7 +6,6 @@ public class OverrideExample {
             System.out.println("Display method in Parent class");
         }
     }
-
     static class Child extends Parent{
         @Override
         public void display() {
