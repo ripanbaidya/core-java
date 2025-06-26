@@ -1,6 +1,7 @@
 package annotation;
 
 public class OverrideExample {
+
     static class Parent {
         public void display() {
             System.out.println("Display method in Parent class");
