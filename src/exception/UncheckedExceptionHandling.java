@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * RuntimeException and its subclasses are unchecked exceptions.

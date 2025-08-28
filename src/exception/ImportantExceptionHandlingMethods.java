@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * @classname Throwable

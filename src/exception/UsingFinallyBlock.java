@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * finally block will execute irrespective of whether exception is handled or not.

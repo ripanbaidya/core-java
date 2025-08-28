@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * In multiple catch block order is important.

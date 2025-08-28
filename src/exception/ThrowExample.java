@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * we use when we manually want to trigger an exception in our code.

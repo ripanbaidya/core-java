@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 // This code demonstrates how to handle a NullPointerException in Java.
 // It includes a try-catch block to catch the exception and a finally block that executes regardless of whether an exception occurred.

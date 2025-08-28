@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 // This is a simple example of using try-catch to handle exceptions in Java.
 public class TryCatchExample {

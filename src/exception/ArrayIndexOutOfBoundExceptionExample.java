@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * This class demonstrates how to handle an ArrayIndexOutOfBoundsException in Java.

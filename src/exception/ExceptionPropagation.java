@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 
 /**
  * child class will throw the exception to its parents and exception must handle by parent class.

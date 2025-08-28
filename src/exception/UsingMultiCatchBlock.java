@@ -1,4 +1,4 @@
-package exceptionhandling;
+package exception;
 /**
  * rules:
  * 1. Separate Multiple Exceptions with | operator.
